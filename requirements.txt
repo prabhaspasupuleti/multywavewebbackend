@@ -6,3 +6,4 @@ python-dotenv
 psycopg2-binary
 gunicorn
 ALLOWED_ORIGINS=https://multywave.com,https://www.multywave.com
+Werkzeug

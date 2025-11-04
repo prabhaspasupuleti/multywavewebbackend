@@ -4,6 +4,8 @@ import smtplib
 import requests
 import os
 import re
+import requests
+
 
 contact_bp = Blueprint("contact_bp", __name__)
 

@@ -1,9 +1,7 @@
 # backend/app.py
-
 from app import create_app
 
-# ✅ Create the Flask app instance from the factory
-app = create_app()
+app = create_app()  # expose for Gunicorn
 
 if __name__ == "__main__":
     import os

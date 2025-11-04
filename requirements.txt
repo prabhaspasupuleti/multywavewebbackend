@@ -2,7 +2,7 @@ Flask
 Flask-SQLAlchemy
 Flask-Migrate
 Flask-Cors
-Flask-JWT-Extended   ← ✅ ADD THIS LINE
+Flask-JWT-Extended
 python-dotenv
 psycopg2-binary
 gunicorn
